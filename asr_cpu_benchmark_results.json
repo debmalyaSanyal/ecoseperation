@@ -1,0 +1,110 @@
+[
+  {
+    "model": "base",
+    "device": "cpu",
+    "compute_type": "int8",
+    "sample_duration_seconds": 10.542,
+    "load_seconds": 1.613,
+    "decode_seconds": [
+      7.439,
+      6.649,
+      6.953
+    ],
+    "avg_decode_seconds": 7.014,
+    "realtime_factor": 0.665,
+    "language": "en",
+    "language_probability": 0.9991,
+    "text": "This is a repeatable local speech benchmark for the offline meeting assistant. The model should transcribe the sentence clearly and append it after three packets of silence.",
+    "status": "ok"
+  },
+  {
+    "model": "base",
+    "device": "cpu",
+    "compute_type": "int8_float32",
+    "sample_duration_seconds": 10.542,
+    "load_seconds": 1.635,
+    "decode_seconds": [
+      7.066,
+      7.084,
+      9.118
+    ],
+    "avg_decode_seconds": 7.756,
+    "realtime_factor": 0.736,
+    "language": "en",
+    "language_probability": 0.9991,
+    "text": "This is a repeatable local speech benchmark for the offline meeting assistant. The model should transcribe the sentence clearly and append it after three packets of silence.",
+    "status": "ok"
+  },
+  {
+    "model": "base",
+    "device": "cpu",
+    "compute_type": "float32",
+    "sample_duration_seconds": 10.542,
+    "load_seconds": 1.748,
+    "decode_seconds": [
+      9.663,
+      10.013,
+      9.154
+    ],
+    "avg_decode_seconds": 9.61,
+    "realtime_factor": 0.912,
+    "language": "en",
+    "language_probability": 0.999,
+    "text": "This is a repeatable local speech benchmark for the offline meeting assistant. The model should transcribe the sentence clearly and append it after three packets of silence.",
+    "status": "ok"
+  },
+  {
+    "model": "small",
+    "device": "cpu",
+    "compute_type": "int8",
+    "sample_duration_seconds": 10.542,
+    "load_seconds": 4.697,
+    "decode_seconds": [
+      21.339,
+      23.07,
+      8.622
+    ],
+    "avg_decode_seconds": 17.677,
+    "realtime_factor": 1.677,
+    "language": "en",
+    "language_probability": 0.9983,
+    "text": "This is a repeatable local speech benchmark for the offline meeting assistant. The model should transcribe the sentence clearly and append it after three packets of silence.",
+    "status": "ok"
+  },
+  {
+    "model": "small",
+    "device": "cpu",
+    "compute_type": "int8_float32",
+    "sample_duration_seconds": 10.542,
+    "load_seconds": 2.369,
+    "decode_seconds": [
+      6.814,
+      6.52,
+      6.785
+    ],
+    "avg_decode_seconds": 6.706,
+    "realtime_factor": 0.636,
+    "language": "en",
+    "language_probability": 0.9983,
+    "text": "This is a repeatable local speech benchmark for the offline meeting assistant. The model should transcribe the sentence clearly and append it after three packets of silence.",
+    "status": "ok"
+  },
+  {
+    "model": "small",
+    "device": "cpu",
+    "compute_type": "float32",
+    "sample_duration_seconds": 10.542,
+    "load_seconds": 1.869,
+    "decode_seconds": [
+      9.561,
+      9.378,
+      9.191
+    ],
+    "avg_decode_seconds": 9.377,
+    "realtime_factor": 0.889,
+    "language": "en",
+    "language_probability": 0.9982,
+    "text": "This is a repeatable local speech benchmark for the offline meeting assistant. The model should transcribe the sentence clearly and append it after three packets of silence.",
+    "status": "ok"
+  }
+]

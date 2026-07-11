@@ -1,0 +1,50 @@
+[
+  {
+    "model": "base",
+    "device": "cuda",
+    "compute_type": "float16",
+    "exit_code": 3221226505,
+    "stdout": "",
+    "stderr": "C:\\Users\\D E B M A L Y A\\OneDrive\\Desktop\\Alpha\\Final Project\\.venv\\Lib\\site-packages\\ctranslate2\\__init__.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  import pkg_resources\nCould not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path!"
+  },
+  {
+    "model": "base",
+    "device": "cuda",
+    "compute_type": "int8_float16",
+    "exit_code": 3221226505,
+    "stdout": "",
+    "stderr": "C:\\Users\\D E B M A L Y A\\OneDrive\\Desktop\\Alpha\\Final Project\\.venv\\Lib\\site-packages\\ctranslate2\\__init__.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  import pkg_resources\nCould not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path!"
+  },
+  {
+    "model": "base",
+    "device": "cuda",
+    "compute_type": "int8",
+    "exit_code": 3221226505,
+    "stdout": "",
+    "stderr": "C:\\Users\\D E B M A L Y A\\OneDrive\\Desktop\\Alpha\\Final Project\\.venv\\Lib\\site-packages\\ctranslate2\\__init__.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  import pkg_resources\nCould not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path!"
+  },
+  {
+    "model": "small",
+    "device": "cuda",
+    "compute_type": "float16",
+    "exit_code": 3221226505,
+    "stdout": "",
+    "stderr": "C:\\Users\\D E B M A L Y A\\OneDrive\\Desktop\\Alpha\\Final Project\\.venv\\Lib\\site-packages\\ctranslate2\\__init__.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  import pkg_resources\nCould not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path!"
+  },
+  {
+    "model": "small",
+    "device": "cuda",
+    "compute_type": "int8_float16",
+    "exit_code": 3221226505,
+    "stdout": "",
+    "stderr": "C:\\Users\\D E B M A L Y A\\OneDrive\\Desktop\\Alpha\\Final Project\\.venv\\Lib\\site-packages\\ctranslate2\\__init__.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  import pkg_resources\nCould not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path!"
+  },
+  {
+    "model": "small",
+    "device": "cuda",
+    "compute_type": "int8",
+    "exit_code": 3221226505,
+    "stdout": "",
+    "stderr": "C:\\Users\\D E B M A L Y A\\OneDrive\\Desktop\\Alpha\\Final Project\\.venv\\Lib\\site-packages\\ctranslate2\\__init__.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  import pkg_resources\nCould not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path!"
+  }
+]

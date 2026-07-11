@@ -1,0 +1,386 @@
+[
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 80,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": null,
+    "emitted_audio_seconds": null
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 80,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.128
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 80,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.16
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 120,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": null,
+    "emitted_audio_seconds": null
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 120,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.128
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 120,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.16
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 150,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": null,
+    "emitted_audio_seconds": null
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 150,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.128
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 150,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.16
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 220,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": null,
+    "emitted_audio_seconds": null
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 220,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.128
+  },
+  {
+    "chunk_frames": 512,
+    "chunk_ms": 32.0,
+    "rms_threshold": 220,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.16
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 80,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.192
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 80,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.256
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 80,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.32
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 120,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.192
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 120,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.256
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 120,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.32
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 150,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.192
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 150,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.256
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 150,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.32
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 220,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.192
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 220,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.256
+  },
+  {
+    "chunk_frames": 1024,
+    "chunk_ms": 64.0,
+    "rms_threshold": 220,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.32
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 80,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.384
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 80,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.512
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 80,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.64
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 120,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.384
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 120,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.512
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 120,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.64
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 150,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.384
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 150,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.512
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 150,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.64
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 220,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.384
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 220,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 0.512
+  },
+  {
+    "chunk_frames": 2048,
+    "chunk_ms": 128.0,
+    "rms_threshold": 220,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 0.64
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 80,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.768
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 80,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 1.024
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 80,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 1.28
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 120,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.768
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 120,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 1.024
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 120,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 1.28
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 150,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.768
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 150,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 1.024
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 150,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 1.28
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 220,
+    "low_packet_target": 2,
+    "emitted_after_silence_packet": 2,
+    "emitted_audio_seconds": 0.768
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 220,
+    "low_packet_target": 3,
+    "emitted_after_silence_packet": 3,
+    "emitted_audio_seconds": 1.024
+  },
+  {
+    "chunk_frames": 4096,
+    "chunk_ms": 256.0,
+    "rms_threshold": 220,
+    "low_packet_target": 4,
+    "emitted_after_silence_packet": 4,
+    "emitted_audio_seconds": 1.28
+  }
+]
